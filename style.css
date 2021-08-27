@@ -1,0 +1,15 @@
+/* #conatiner div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 2px solid black;
+} */
+
+.pokemon{
+    display: inline-block;
+    text-align: center;
+}
+.pokemon img{
+    display: block;
+}
